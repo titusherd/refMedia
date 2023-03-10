@@ -1,0 +1,128 @@
+[
+    {
+        "newsTitle": "Squid and the Whale, The",
+        "newsSummary": "Division of Left Acetabulum, Open Approach",
+        "newsDetail": "Division of Left Acetabulum, Open Approach",
+        "CategoryId": 11,
+        "AuthorId": 3,
+        "createdAt": "2022-07-19",
+        "updatedAt": "2022-05-08"
+    },
+    {
+        "newsTitle": "The Orkly Kid",
+        "newsSummary": "Supplement R Pulm Vein with Zooplastic, Open Approach",
+        "newsDetail": "Supplement Right Pulmonary Vein with Zooplastic Tissue, Open Approach",
+        "CategoryId": 5,
+        "AuthorId": 2,
+        "createdAt": "2022-11-12",
+        "updatedAt": "2022-10-11"
+    },
+    {
+        "newsTitle": "Boys in the Band, The",
+        "newsSummary": "Inspection of Lumbosacral Joint, Perc Endo Approach",
+        "newsDetail": "Inspection of Lumbosacral Joint, Percutaneous Endoscopic Approach",
+        "CategoryId": 2,
+        "AuthorId": 2,
+        "createdAt": "2022-10-20",
+        "updatedAt": "2022-03-27"
+    },
+    {
+        "newsTitle": "Christmas in Connecticut",
+        "newsSummary": "Plain Radiography of Vagina using Low Osmolar Contrast",
+        "newsDetail": "Plain Radiography of Vagina using Low Osmolar Contrast",
+        "CategoryId": 13,
+        "AuthorId": 3,
+        "createdAt": "2022-06-30",
+        "updatedAt": "2022-05-07"
+    },
+    {
+        "newsTitle": "Basquiat",
+        "newsSummary": "Removal of Nonaut Sub from Abd Wall, Perc Approach",
+        "newsDetail": "Removal of Nonautologous Tissue Substitute from Abdominal Wall, Percutaneous Approach",
+        "CategoryId": 4,
+        "AuthorId": 2,
+        "createdAt": "2023-01-02",
+        "updatedAt": "2022-08-05"
+    },
+    {
+        "newsTitle": "God on Trial",
+        "newsSummary": "Insertion of Ext Fix into R Metatarsophal Jt, Perc Approach",
+        "newsDetail": "Insertion of External Fixation Device into Right Metatarsal-Phalangeal Joint, Percutaneous Approach",
+        "CategoryId": 3,
+        "AuthorId": 3,
+        "createdAt": "2022-03-21",
+        "updatedAt": "2022-12-05"
+    },
+    {
+        "newsTitle": "Lodger, The",
+        "newsSummary": "Revision of Intralum Dev in Stomach, Perc Endo Approach",
+        "newsDetail": "Revision of Intraluminal Device in Stomach, Percutaneous Endoscopic Approach",
+        "CategoryId": 6,
+        "AuthorId": 5,
+        "createdAt": "2022-08-01",
+        "updatedAt": "2022-06-18"
+    },
+    {
+        "newsTitle": "Fairly Odd Movie: Grow Up, Timmy Turner!, A",
+        "newsSummary": "Occlusion R Axilla Lymph w Intralum Dev, Perc Endo",
+        "newsDetail": "Occlusion of Right Axillary Lymphatic with Intraluminal Device, Percutaneous Endoscopic Approach",
+        "CategoryId": 13,
+        "AuthorId": 3,
+        "createdAt": "2022-05-05",
+        "updatedAt": "2023-02-13"
+    },
+    {
+        "newsTitle": "Mudge Boy, The",
+        "newsSummary": "Reposition Right Patella, Percutaneous Approach",
+        "newsDetail": "Reposition Right Patella, Percutaneous Approach",
+        "CategoryId": 12,
+        "AuthorId": 5,
+        "createdAt": "2022-08-29",
+        "updatedAt": "2022-09-04"
+    },
+    {
+        "newsTitle": "Shall We Dance",
+        "newsSummary": "Excision of Thor Aorta Asc, Open Approach, Diagn",
+        "newsDetail": "Excision of Thoracic Aorta, Ascending/Arch, Open Approach, Diagnostic",
+        "CategoryId": 1,
+        "AuthorId": 3,
+        "createdAt": "2022-11-22",
+        "updatedAt": "2023-01-27"
+    },
+    {
+        "newsTitle": "Curiosity of Chance, The",
+        "newsSummary": "Computerized Tomography (CT Scan) of Left Clavicle",
+        "newsDetail": "Computerized Tomography (CT Scan) of Left Clavicle",
+        "CategoryId": 7,
+        "AuthorId": 1,
+        "createdAt": "2022-12-23",
+        "updatedAt": "2022-12-06"
+    },
+    {
+        "newsTitle": "Racing with the Moon",
+        "newsSummary": "Fluoroscopy of Inferior Mesenteric Artery using Oth Contrast",
+        "newsDetail": "Fluoroscopy of Inferior Mesenteric Artery using Other Contrast",
+        "CategoryId": 12,
+        "AuthorId": 5,
+        "createdAt": "2022-11-13",
+        "updatedAt": "2022-12-08"
+    },
+    {
+        "newsTitle": "First Deadly Sin, The",
+        "newsSummary": "Bypass Esophagus to Duodenum, Endo",
+        "newsDetail": "Bypass Esophagus to Duodenum, Via Natural or Artificial Opening Endoscopic",
+        "CategoryId": 5,
+        "AuthorId": 3,
+        "createdAt": "2022-04-08",
+        "updatedAt": "2022-09-22"
+    },
+    {
+        "newsTitle": "Don't Think About It (Non Pensarci)",
+        "newsSummary": "Replacement of R Parotid Duct with Nonaut Sub, Open Approach",
+        "newsDetail": "Replacement of Right Parotid Duct with Nonautologous Tissue Substitute, Open Approach",
+        "CategoryId": 11,
+        "AuthorId": 3,
+        "createdAt": "2022-08-26",
+        "updatedAt": "2022-11-19"
+    }
+]
